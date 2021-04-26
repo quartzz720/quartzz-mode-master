@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+body {
+    overflow: hidden;
+}
+
+
+.hud_wrapper .right-block {
+    position: absolute;
+    right: 1.5vw;
+    top: 1.5vw;
+    display: grid;
+}
+.hud_wrapper .right-block .content-top {
+    text-align: center;
+    font-family: Particle-Regular, sans-serif;
+    font-size: .89vw;
+    color: white;
+}
+.hud_wrapper .right-block .content-top .logotype{
+    width: 11vw;
+}
+.hud_wrapper .right-block .content-top .money-block {
+    font-size: 1vw;
+    margin: 1vw 0 0 2.3vw;
+    display: grid;
+}
+.hud_wrapper .right-block .content-top .money-block .money,
+.hud_wrapper .right-block .content-top .money-block .bank{
+    text-align: end;
+    float: right;
+    margin: .5vw 0 0 0;
+}
+.hud_wrapper .right-block .content-top .money-block .money img,
+.hud_wrapper .right-block .content-top .money-block .bank img{
+    width: 2vw;
+    margin: 0 0 -.57vw .3vw;
+
+}
+.hud_wrapper .right-block .content-top .bonus-block { 
+    float: right;
+}
+.hud_wrapper .right-block .content-top .bonus-block .gift {
+    margin: 1vw 0;
+}
+.hud_wrapper .right-block .content-top .bonus-block .gift img {
+    width: 1.4vw;
+}
+.hud_wrapper .right-block .content-top .bonus-block .bonus-content{
+    background: rgba(0, 0, 0, 0.81);
+    border-top: .2vw solid #b02323;
+    width: 20vw;
+    position: absolute;
+    margin: -2.9vw -18.5vw;
+    z-index: -1;
+}
+.hud_wrapper .right-block .content-top .bonus-block .bonus-content .header{
+    margin: .1vw 0 .4vw;
+    line-height: 1.5vw;
+    border-bottom: 1px solid #000;
+    font-size: .8vw;
+}
+.hud_wrapper .right-block .content-top .bonus-block .bonus-content .block{
+    background: rgba(0, 0, 0, 0.6);
+    padding: 1.3vw;
+    margin: 0 .5vw .5vw;
+    font-size: 1vw;
+}
+.hud_wrapper .right-block .content-top .bonus-block .bonus-content::after{
+    content: "";
+    background: url(../assets/hud/smudges.png);
+    width: 13.6vw;
+    height: 2.6vw;
+    background-size: contain;
+    display: flex;
+    position: absolute;
+    margin: 0 6.3vw;
+}
+.hud_wrapper .right-block .content-center {
+    transform: translate(0, 7vw);
+    font-family: KelsonSansRU, sans-serif;
+}
+.hud_wrapper .right-block .content-center .help-block{
+    float: right;
+    text-align: end;
+}
+.hud_wrapper .right-block .content-center .help-block .info{
+    color: white;
+    font-size: .85vw;
+    margin: 0 0 .8vw;
+}
+.hud_wrapper .right-block .content-center .help-block .info a{
+    background: rgba(0, 0, 0, 0.78);
+    border-radius: .1vw;
+    padding: .17vw .45vw;
+}
+.hud_wrapper .right-block .content-bottom {
+    position: fixed;
+    right: 1.5vw;
+    bottom: 0;
+    display: flex;
+    height: 8vw;
+}
+.hud_wrapper .right-block .content-bottom .right {
+    display: inline-grid;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food {
+    display: inline-flex;
+    float: right;
+    height: 3.5vw;
+    /* margin: 4.4vw 0 0 0; */
+}
+.hud_wrapper .right-block .content-bottom .right .noveh{
+    margin: 4.4vw 0 0 0;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .water{
+    display: grid;
+    margin: 0 .2vw 0;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .water img{ 
+    width: 1.25vw;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .food{
+    display: grid;
+    margin: 0 .2vw 0;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .food img{ 
+    width: 1.8vw;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .micro{
+    display: grid;
+    margin: 0 .2vw 0;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .food p,
+.hud_wrapper .right-block .content-bottom .right .fast-food .water p{
+    color: #09bf00;
+    font-family: Particle-Regular, sans-serif;
+    font-style: italic;
+    font-size: .8vw;
+    margin: 0 0 .2vw;
+    text-align: center;
+}
+.hud_wrapper .right-block .content-bottom .right .fast-food .micro img{
+    width: 1.5vw;
+    margin: .85vw 0 0 0;
+}
+.hud_wrapper .right-block .content-bottom .right .speed {
+    font-family: Unispace, sans-serif;
+    font-size: 3.7vw;
+    font-style: italic;
+    font-weight: 700;
+    color: white;
+}
+.hud_wrapper .right-block .content-bottom .left {
+    display: flex;
+    margin: 5vw 0;
+    height: 0vw;
+}
+.hud_wrapper .right-block .content-bottom .left .fuel{
+    margin: -1.6vw 0 0 0;
+    display: flex;
+    align-items: center;
+}
+.hud_wrapper .right-block .content-bottom .left .fuel img{
+    width: 1.5vw;
+    margin: 0 .4vw 0 0;
+}
+.hud_wrapper .right-block .content-bottom .left .fuel span{
+    color: white;
+    font-family: 'Particle-Regular';
+    font-size: .9vw;
+}
+.hud_wrapper .right-block .content-bottom .left .speed{
+    color: white;
+    font-family: 'Particle-Regular';
+    font-size: 1.5vw;
+    font-style: italic;
+    margin: .1vw 1vw 0 -3vw;
+}
+
+.hud_wrapper .right-block .content-bottom .left .engine img{
+    width: 2.24vw;
+    margin: .18vw .8vw 0 0;
+}
+.hud_wrapper .right-block .content-bottom .left .door img{
+    width: 1.76vw;
+}

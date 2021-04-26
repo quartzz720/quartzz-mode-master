@@ -1,0 +1,242 @@
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csprojAssemblyReference.cache
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfoInputs.cache
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfo.cs
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CoreCompileInputs.cache
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.deps.json
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.xml
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CopyComplete
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode\server\dotnet\resources\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csprojAssemblyReference.cache
+D:\Quartzz-mode\server\dotnet\resources\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfoInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfo.cs
+D:\Quartzz-mode\server\dotnet\resources\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode\server\dotnet\resources\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.deps.json
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.xml
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csprojAssemblyReference.cache
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfoInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfo.cs
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CopyComplete
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.deps.json
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.xml
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csprojAssemblyReference.cache
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfoInputs.cache
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfo.cs
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CopyComplete
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.deps.json
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Colorful.Console.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\NeoSmart.Hashing.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\xxHash.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Ben.Demystifier.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\Bootstrapper.xml
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\bin\x64\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csprojAssemblyReference.cache
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfoInputs.cache
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.AssemblyInfo.cs
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.csproj.CopyComplete
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\QuartzzSDK\obj\x64\Debug\netcoreapp3.1\QuartzzSDK.pdb

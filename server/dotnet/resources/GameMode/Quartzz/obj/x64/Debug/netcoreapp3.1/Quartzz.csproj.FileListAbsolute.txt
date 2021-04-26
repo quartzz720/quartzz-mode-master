@@ -1,0 +1,46 @@
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csprojAssemblyReference.cache
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfoInputs.cache
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfo.cs
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CoreCompileInputs.cache
+C:\Quartzz-mode-master\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.deps.json
+C:\Quartzz-mode-master\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.dll
+C:\Quartzz-mode-master\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.pdb
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CopyComplete
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.dll
+C:\Quartzz-mode-master\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode\server\dotnet\resources\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csprojAssemblyReference.cache
+D:\Quartzz-mode\server\dotnet\resources\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfoInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfo.cs
+D:\Quartzz-mode\server\dotnet\resources\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode\server\dotnet\resources\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.deps.json
+D:\Quartzz-mode\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csprojAssemblyReference.cache
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfoInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfo.cs
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CopyComplete
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode backup\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.deps.json
+D:\Quartzz-mode backup\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode backup\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csprojAssemblyReference.cache
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfoInputs.cache
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfo.cs
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CopyComplete
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode backup\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.deps.json
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\release\bin\netcoreapp3.1\Quartzz.pdb
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csprojAssemblyReference.cache
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfoInputs.cache
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.AssemblyInfo.cs
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CoreCompileInputs.cache
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.csproj.CopyComplete
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.dll
+D:\Quartzz-mode (blunt rp)\server\dotnet\resources\GameMode\Quartzz\obj\x64\Debug\netcoreapp3.1\Quartzz.pdb

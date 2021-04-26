@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 33" width="41" height="33">
+	<defs>
+		<image  width="43" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAjCAMAAAA60AOfAAAAAXNSR0IB2cksfwAAAVxQTFRFAAAAAAAA/////////////////////f397e3t/////////////Pz8AAAAAAAAAAAA////////////AAAAAAAAAAAA////////AAAAAAAAAAAAAAAAAAAAAAAAAAAA/v7+/////v7+/f39/v7+AAAAAAAA9PT07+/v5OTk2NjYz8/Px8fHwsLCvr6+vb29v7+/x8fHAAAAAAAAAAAA+fn59fX17u7u5+fn4eHh3Nzc2dnZ19fX1tbW19fX3NzcAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v7+/Pz8+fn5+fn5+fn5+Pj4/f39AAAA/v7+w8PDUVFRWVlZWlpaW1tbYWFh7e3t0NDQlpaWlJSUlZWVmJiYmZmZl5eX8PDw/f39/Pz8/v7+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/v7++/v7////+/v74uLi+/v7zMzMAAAAAAAAAAAAAAAAN46c3wAAAHR0Uk5TAAECPYSVkmkZO56mdQQDAn6koggHBZSlDgwJBhURDZOhoaGiGxc8RkhMT1NVV1dXWR8aFFNgYmRnaWtsbW1vIRwWDx0QCpSemJmamKMgklMtMDAwMYNcP0A/Pj49haKfpSIeJBkSJgsnkW+jniSIaCooGBNHIAkGAAABn0lEQVR4nJ2U+VOCQBiGpbLLWCrYUhDtkO5Lu09PtCzMo7KyUwXtLv3/ZwIVE1sY9fkRnnnn41v2NZk6AtNBI3V195h79ejr1/gDgxYDhnAAiLo9PGLkjpIUlOXanGPjRq7FaqMZVcbMxq6dddAQ1FznxKTMlA7TLo61Uao7Mzs3v7C4tLyCYnXN7Vm3kpCouhubW9s7u3v7BygOj7w+f4CG1YEJw5VZLN6gP8Srblj5tsjxSbTKafRM4wq+BjemuOfxRCKRTCZTqfjFpWYxgsv+N0PFvUpf36RvMzJ3mXs9FyOcyquHyKNCROGpaV5OnaHm6vOc5di6GzN2c+68yDOt5UpCXiwwreVKXo/sgpZyi5264Tbclzbc1zcj9V3jfnwaBX9JgudvZ5APcdlc8RvNj3wW6rmZMEha7S4hJ0lFBFKu8f/FAGUTOZdb8KIQ3MFS2UHitfsGIG0V7aW8B0neXw7wjHo3CcDQtgAromFDDp7C62VC4JCi+QIanicZHKglhcnJOIQMGgjxhj6r1CkhAxDIj/8Vq177Nnst8gtXLKFPx1xz0AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="все что у карты">
+		<g id="деньги (карта)">
+			<use id="-e-Слой 2" href="#img1" x="-1" y="-1" />
+		</g>
+	</g>
+</svg>

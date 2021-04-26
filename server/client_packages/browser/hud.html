@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1.0" name="viewport">
+	<link rel="stylesheet" href="./assets/hud/fonts/style.css">
+    <link rel="stylesheet" href="./assets/css/hud.css">
+    <link rel="stylesheet" href="./assets/css/chat.css">
+    <link rel="stylesheet" href="./assets/fonts/notify.css">
+    <link rel="stylesheet" href="./assets/css/noty.css" />
+    <link rel="stylesheet" href="./assets/css/theme.css" />	
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.5.13/vue.js" integrity="sha512-1EYgCUCJVtr5ociXCkVxNVIuys2voHSsekuPLW9YJ9+6OiFiBLob/HNwg9C3oEmJuYvCYtnKdGpGwZPPKQzvHg==" crossorigin="anonymous"></script>
+
+</head>
+<body>	
+    
+    <div id="chat" class="chat">
+        <ul id="chat_messages"></ul>
+    </div>
+    
+    <div id="prompt" v-if="text">
+        <div class="text" v-html="text"></div>
+    </div>
+
+    
+        <div class="hud_wrapper" v-if="show">
+            <div class="right-block">
+                <div class="content-top">
+                    <img src="./assets/hud/logo.svg" class="logotype">
+                    <p>{{nick}} ({{playerId}})</p>
+                    <p>ONLINE {{online}}</p>
+                    <div class="money-block">
+                       <div class="money">
+                            <span>{{bank}} $ </span><img src="./assets/hud/card.svg">
+                       </div> 
+                       <div class="bank">
+                            <span>{{money}} $ </span><img src="./assets/hud/wallet.svg">
+                       </div>
+                    </div>
+                    <div class="bonus-block">
+                        <div class="bonus-gift">
+                            <div class="gift" @click="showbonus()">
+                                <img src="./assets/hud/gift.svg">
+                            </div>
+                        </div>
+                        <div class="bonus-content" v-if="bonusblock">
+                            <div class="header">
+                                Ежедневный бонус
+                            </div>
+                            <div class="block">
+                                Время до бонуса: {{lastbonus}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="content-center">
+                    <div class="help-block">
+                        <div class="info">Ремни безопасноти <a>J</a></div>
+                        <div class="info">Убрать интерфейс <a>F5</a></div>
+                        <div class="info">Убрать подсказки <a>F4</a></div>
+                        <div class="info">Достать телефон <a>🠕</a></div>
+                        <div class="info">Микрофон <a>N</a></div>
+                        <div class="info">Инвентарь <a>I</a></div>
+                        <div class="info">Двигатель <a>B</a></div>
+                        <div class="info">Двери Т/С <a>L</a></div>
+                    </div>
+                </div>
+                <div class="content-bottom">
+                    <div class="left" v-if="inVeh">
+                        <div class="engine">
+                            <img v-if="engine" src="./assets/hud/engine.svg">
+                            <img v-else style="opacity: .4;" src="./assets/hud/engine.svg">
+                        </div>
+                        <div class="door">
+                            <img v-if="doors"src="./assets/hud/doors.svg">
+                            <img v-else style="opacity: .4;" src="./assets/hud/doors.svg">
+                        </div>
+                        <div class="fuel">
+                            <img src="./assets/hud/fuel.svg">
+                            <span>{{fuel}}L.</span>
+                        </div>
+                        <p class="speed">kmh</p>
+                    </div>
+                    <div class="right">
+                        <div class="fast-food noveh" v-if="!inVeh">
+                            <div class="micro">
+                                <img v-if="mic" src="./assets/hud/micro.svg">
+                                <img v-else style="opacity: .4;" src="./assets/hud/micro.svg">
+                            </div>
+                            <div class="food">
+                                <p>{{eat}}</p>
+                                <img src="./assets/hud/food.svg">
+                            </div>
+                            <div class="water">
+                                <p>{{water}}</p>
+                                <img src="./assets/hud/water.svg">
+                            </div>
+                        </div>
+                        <div class="fast-food" v-if="inVeh">
+                            <div class="micro">
+                                <img v-if="mic" src="./assets/hud/micro.svg">
+                                <img v-else style="opacity: .4;" src="./assets/hud/micro.svg">
+                            </div>
+                            <div class="food">
+                                <p>{{eat}}</p>
+                                <img src="./assets/hud/food.svg">
+                            </div>
+                            <div class="water">
+                                <p>{{water}}</p>
+                                <img src="./assets/hud/water.svg">
+                            </div>
+                        </div>
+                        <div class="speed" v-if="inVeh">
+                            <a v-if="speed < 40" style="color:white">{{ speed < 10 ? '00' : speed < 100 ? '0' : ''}}{{speed}}</a>
+                            <a v-if="speed >= 40 && speed < 70" style="color:rgb(221, 224, 19)">{{ speed < 10 ? '00' : speed < 100 ? '0' : ''}}{{speed}}</a>
+                            <a v-if="speed >= 70 && speed < 140" style="color:rgb(253, 186, 0)">{{ speed < 10 ? '00' : speed < 100 ? '0' : ''}}{{speed}}</a>
+                            <a v-if="speed >= 140 && speed < 200" style="color:rgb(253, 72, 0)">{{ speed < 10 ? '00' : speed < 100 ? '0' : ''}}{{speed}}</a>
+                            <a v-if="speed >= 200" style="color:rgba(224, 21, 21, 0.911)">{{ speed < 10 ? '00' : speed < 100 ? '0' : ''}}{{speed}}</a>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+        </div>
+
+
+    <div id="effect"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+    <script src="./assets/js/hud.js"></script>
+    <script src="./assets/js/chat.js"></script>
+    <script src="./assets/js/noty.min.js"></script>
+    <script src="./assets/js/notify.js"></script>
+    <script src="https://kit.fontawesome.com/c552bfdf6a.js" crossorigin="anonymous"></script>
+
+    
+    <script>
+        function hidehud(toggle) {
+            if (toggle) {
+                HUD.show = false;
+            } else {
+                HUD.show = true;
+            }
+        }
+        function hidehelp(toggle) {
+            if (toggle) {
+                $('.help-block').hide();
+            } else {
+                $('.help-block').show();
+            }
+        }
+		</script>
+
+    <script>function updateSafeZoneSize(screenWidht, screenHeight, safeZoneSize) {var savezoneDiv = document.getElementById("safezone");safeZoneSize = (((1.0 - safeZoneSize) * 0.5) * 100.0);savezoneDiv.style.right = savezoneDiv.style.left = ((screenWidht / 100) * safeZoneSize) + "px";savezoneDiv.style.top = savezoneDiv.style.bottom = ((screenHeight / 100) * safeZoneSize) + "px";return true;}</script>
+</body>
+</html>

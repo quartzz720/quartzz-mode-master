@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43 28" width="43" height="28">
+	<defs>
+		<image  width="43" height="28" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAcCAMAAADP/LbnAAAAAXNSR0IB2cksfwAAAp1QTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////jsWKlwAAAN90Uk5TAEPO//36+/mdHC2w9Oa0nuHqpqXx1KPSiAkprvKNPrGrJ0nX/IIXau3lWT3MgxICAUJEEytmvPiaNzkVRtPdCuvHR0D3p3h9cjgGtbk1T/D29RExxlvj1RmHlBYDC+RBTdyEe5NlD2wydx5jYIaOqr0fjI9p2zapfgQHM8S22S80wDDDU8nYoRB2ku+6awgau97sbZnWJLPPyhhkdZjR4m7fn8gUxSosviFXevM/SEpfDpYNUecdIugmonMFG7+kUGcg6YW32pf+m1qJVKgu4O5YzSh/Ozo8TItFXNCcIxCRNCoAAANASURBVHicY2CAA0YmZmYWVmZmZjYQwc7MzMHJgANwcfPwMrPx8QswCwoJizCLionzSEhiVyolLSMrJ8+soKikrKKqpq6hqaWto6Krx6BvgFBjaGQMJE1MzVjMLSyt+DQkrG1s7Uzt1R0cnZwdXVzd3D08vWBqvX18Gbz8zPyZAwJlLIKCQwSMGELDwiO8Il04vJx1mAPNXaKiGWLsY+31GRjiBOMZEhIDuJOSJVJS0xg80zMYYvwysxiCsnPsGeRy8/IDCwr1TIuKI0ucGURLy2LLWSusDSqrKjF9YcBQXVOrZijALKOiIcYQXlffoNxYiCt0GJqa5YNaAgsyW5mbGcLbuOJL2ztwqi0LMatPF+ms6gKqFW3jkmsTtsapNqOgu0fUpbcvirkRpFZbWdjYS6q6HgGagvtjYG6YwDJxEvvkoClAtVNtp2XYtqcxTp8RggAzdVRnQdU21CjPLuKZkzYXqHbe/OwFCxel2XjPCHF0XOwIBCEhi3WYkiJg7p3ZsyShOxmsdilLnUDgoqDKaVxSUlLLpMBg2XIua32oWt/WFStXda8Gq3U0XzxvDX+Q3tqEdeuc1gGBk5PTuvVKy6qgaj1FZypucFHduAnkt0S5hNJFm7fME+HdCgeTJs3dBnNvyIrtq3a4dYDMnRq+03Lqro3VUQrtu+BAqLzEGKo2OkcrZuVu3452kLnKy7Wnui7Zs7dwGwJkFRrDwoyBQb8qxoDBupx5Hyje5JT3446LjQeSZCMPHtLbDzQ3vI5rbaIwzjjevPqwymFzwQ0bLYBqbduals2btxyHUns38x1HPI6qeDAUAdUeW+jZd/zEyab+CM7CwiwoOHRID+xerxJ/zVMMDLMDT09rB6Ydu/lrGaoLVKZKi7ly1x6trQXho2YrdoPCIW2yv8CZSoaY2S5xPYeZzRh2na1nYDjHsZWZOVDg/I7DO8DgQncUMI4rS8z9LwK1GBgt9b/gcCmX4bJULJAbsXaui/+VDKur18DgujZQad9sQf/UPnBYlN3wW295CO4LtZsiPbcum3BBQZNlmdvhw7ersHmYgaE/ykXT0XEmFFzSYQqcpG6AXSmwpPCZOO/OPDgIr7t7D1UBABiONTY4MR4FAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Спидометр">
+		<g id="спидометр(простой)">
+			<g id="пнг дверей и движка и бенза">
+				<g id="пнг движка(простой)">
+					<use id="-e-заведен" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
