@@ -19,7 +19,7 @@ namespace QuartzzSDK
         #region Settings
         private static string _dbHost = "localhost";
         private static string _dbUser = "root";
-        private static string _dbPassword = "Papamoget1";
+        private static string _dbPassword = "Password";
         private static string _dbName = "server";
         private static string _dbSslMode = "None";
         #endregion
