@@ -12,4 +12,5 @@ Copy "dlcpacks" folder to path: //server/client_packages/game_resources
 
 
 P.s. This server pack is outdated and won't be updated. 
+
 P.p.s. I just found this lol
